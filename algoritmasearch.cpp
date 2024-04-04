@@ -29,5 +29,12 @@ void input(){
     char ch;
     int ctr; //number of comparisons
     int item;
+
+    do{
+
+        //accept the number to be saearched
+        cout <<"\nEnter the element you want to search:";
+        cin>>item;
+    }
  }
 

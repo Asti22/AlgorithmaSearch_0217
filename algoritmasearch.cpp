@@ -28,5 +28,6 @@ void input(){
  {
     char ch;
     int ctr; //number of comparisons
+    int item;
  }
 

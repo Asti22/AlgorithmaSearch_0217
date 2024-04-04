@@ -13,4 +13,13 @@ void input(){
           break;
         cout << "\nArray shoult have minimum 1 and maximum 20 elements.\n\n";
     }
+    //accept array elements
+    cout <<"\n--------------\n";
+    cout <<"Enter array element \n";
+    cout <<"------------------\n";
+    for(i =0;i < n;i++);
+    {
+        cout <<"<" <<(i+1)<< ">";
+        cin >> arr[i];
+    }
 }

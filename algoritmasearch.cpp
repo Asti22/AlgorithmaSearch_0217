@@ -23,3 +23,4 @@ void input(){
         cin >> arr[i];
     }
 }
+

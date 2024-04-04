@@ -66,3 +66,10 @@ void input(){
     cout << endl;
  }
 
+ int main()
+ {
+    input();
+    LinearSearch();
+    display();
+ }
+

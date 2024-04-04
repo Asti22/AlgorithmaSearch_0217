@@ -23,4 +23,10 @@ void input(){
         cin >> arr[i];
     }
 }
+ 
+ void LinearSearch()
+ {
+    char ch;
+    int ctr; //number of comparisons
+ }
 
